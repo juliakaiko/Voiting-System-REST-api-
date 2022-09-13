@@ -1,0 +1,17 @@
+com\itstep\myfirstspringapp\repository\CandidateDetailsRepository.class
+com\step\springmvcapp\entity\CandidateDetails.class
+com\itstep\myfirstspringapp\repository\ElectorRepository.class
+com\step\springmvcapp\service\VoitingServiceImpl.class
+com\step\springmvcapp\service\VoitingService.class
+com\step\springmvcapp\entity\Candidate.class
+com\itstep\myfirstspringapp\errors\AppError.class
+com\step\springmvcapp\controller\UserController.class
+com\step\springmvcapp\entity\User.class
+com\itstep\myfirstspringapp\repository\CandidateRepository.class
+com\step\springmvcapp\entity\annotations\ValidPassportNumber.class
+com\step\springmvcapp\entity\BaseEntity.class
+com\step\springmvcapp\entity\annotations\ValidPassportNumberValidator.class
+com\step\springmvcapp\entity\Elector.class
+com\step\springmvcapp\controller\RegistrationController.class
+com\step\springmvcapp\configuration\WebInitializer.class
+com\step\springmvcapp\controller\VotingControler.class
